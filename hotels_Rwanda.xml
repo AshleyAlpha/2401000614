@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotelCategories>
+
+    <hotelCategory>
+        <ratingRange>Hotels 3-5 stars</ratingRange>
+        <hotels>
+
+            <hotel>
+                <name>Kigali Marriott Hotel</name>
+                <url>https://www.marriott.com/en-us/hotels/kglmc-kigali-marriott-hotel/overview/</url>
+                <rooms>
+                    <room>
+                        <type>Deluxe Suite</type>
+                        <beds>2</beds>
+                        <pricePerNight currency="USD">250</pricePerNight>
+                        <description>Spacious suite with city views, a private balcony, and luxury furnishings ideal for business or leisure stays.</description>
+                    </room>
+                    <room>
+                        <type>Executive Room</type>
+                        <beds>1</beds>
+                        <pricePerNight currency="USD">180</pricePerNight>
+                        <description>Modern room featuring a king-sized bed, ergonomic workspace, and access to the executive lounge.</description>
+                    </room>
+                    <room>
+                        <type>Presidential Suite</type>
+                        <beds>3</beds>
+                        <pricePerNight currency="USD">500</pricePerNight>
+                        <description>Lavish suite with living and dining areas, panoramic city views, and exclusive butler service.</description>
+                    </room>
+                </rooms>
+            </hotel>
+
+            <hotel>
+                <name>Radisson Blu Hotel Convention Centre Kigali</name>
+                <url>https://www.radissonhotels.com/en-us/hotels/radisson-blu-kigali</url> 
+                <!--<a href="https://www.radissonhotels.com/en-us/hotels/radisson-blu-kigali">Visit W3Schools.com!</a>-->
+                <rooms>
+                    <room>
+                        <type>Business Room</type>
+                        <beds>1</beds>
+                        <pricePerNight currency="USD">210</pricePerNight>
+                        <description>Elegant room with a workspace, high-speed Wi-Fi, and complimentary breakfast for business travelers.</description>
+                    </room>
+                    <room>
+                        <type>Superior Suite</type>
+                        <beds>2</beds>
+                        <pricePerNight currency="USD">300</pricePerNight>
+                        <description>Spacious suite with a lounge area, two bedrooms, and a view of the Kigali skyline.</description>
+                    </room>
+                </rooms>
+            </hotel>
+
+        </hotels>
+    </hotelCategory>
+
+    <hotelCategory>
+        <ratingRange>Hotels 3-4 stars</ratingRange>
+        <hotels>
+
+            <hotel>
+                <name>Ubumwe Grande Hotel</name>
+                <url>https://www.ubumwegrandehotel.com/</url>
+                <rooms>
+                    <room>
+                        <type>Superior Room</type>
+                        <beds>2</beds>
+                        <pricePerNight currency="USD">150</pricePerNight>
+                        <description>Comfortable room with modern decor, queen-sized beds, and a panoramic rooftop view of Kigali.</description>
+                    </room>
+                    <room>
+                        <type>Standard Room</type>
+                        <beds>1</beds>
+                        <pricePerNight currency="USD">120</pricePerNight>
+                        <description>Cozy single room with all essentials, ideal for solo travelers or short business stays.</description>
+                    </room>
+                </rooms>
+            </hotel>
+
+            <hotel>
+                <name>Park Inn by Radisson Kigali</name>
+                <url>https://www.radissonhotels.com/en-us/hotels/park-inn-kigali</url>
+                <rooms>
+                    <room>
+                        <type>Standard Room</type>
+                        <beds>1</beds>
+                        <pricePerNight currency="USD">130</pricePerNight>
+                        <description>Bright and elegant room with modern furniture, minibar, and flat-screen TV.</description>
+                    </room>
+                    <room>
+                        <type>Junior Suite</type>
+                        <beds>2</beds>
+                        <pricePerNight currency="USD">170</pricePerNight>
+                        <description>Spacious suite featuring a separate lounge area and complimentary breakfast.</description>
+                    </room>
+                </rooms>
+            </hotel>
+
+        </hotels>
+    </hotelCategory>
+
+    <hotelCategory>
+        <ratingRange>Hotels 2-3 stars</ratingRange>
+        <hotels>
+
+            <hotel>
+                <name>Five to Five Hotel</name>
+                <url>https://fivetofivehotel.com/</url>
+                <rooms>
+                    <room>
+                        <type>Classic Room</type>
+                        <beds>1</beds>
+                        <pricePerNight currency="USD">90</pricePerNight>
+                        <description>Comfortable single room with free Wi-Fi, breakfast, and airport shuttle service.</description>
+                    </room>
+                    <room>
+                        <type>Deluxe Room</type>
+                        <beds>2</beds>
+                        <pricePerNight currency="USD">110</pricePerNight>
+                        <description>Elegant double room with a balcony, mountain views, and in-room coffee service.</description>
+                    </room>
+                </rooms>
+            </hotel>
+
+            <hotel>
+                <name>Heaven Boutique Hotel</name>
+                <url>https://www.heavenrwanda.com/</url>
+                <rooms>
+                    <room>
+                        <type>Garden Room</type>
+                        <beds>1</beds>
+                        <pricePerNight currency="USD">85</pricePerNight>
+                        <description>Charming room surrounded by lush gardens, featuring handmade local furniture.</description>
+                    </room>
+                    <room>
+                        <type>Deluxe Room</type>
+                        <beds>2</beds>
+                        <pricePerNight currency="USD">100</pricePerNight>
+                        <description>Stylish room offering private patio access and beautiful views of Kigali hills.</description>
+                    </room>
+                </rooms>
+            </hotel>
+
+        </hotels>
+    </hotelCategory>
+
+    <hotelCategory>
+        <ratingRange>Hotels 2-2 stars</ratingRange>
+        <hotels>
+
+            <hotel>
+                <name>Rwanda Youth Hostel</name>
+                <url>https://discoverrwandayouthhostel.com/</url>
+                <rooms>
+                    <room>
+                        <type>Dormitory Room</type>
+                        <beds>4</beds>
+                        <pricePerNight currency="USD">30</pricePerNight>
+                        <description>Shared dorm with bunk beds, lockers, and access to a common kitchen and lounge.</description>
+                    </room>
+                    <room>
+                        <type>Private Room</type>
+                        <beds>1</beds>
+                        <pricePerNight currency="USD">50</pricePerNight>
+                        <description>Simple private room with suite bathroom, ideal for budget-conscious travelers.</description>
+                    </room>
+                </rooms>
+            </hotel>
+
+            <hotel>
+                <name>Step Town Motel</name>
+                <url>https://steptownmotel.com/</url>
+                <rooms>
+                    <room>
+                        <type>Standard Room</type>
+                        <beds>1</beds>
+                        <pricePerNight currency="USD">45</pricePerNight>
+                        <description>Clean and comfortable room located near Kigali city center, perfect for short stays.</description>
+                    </room>
+                    <room>
+                        <type>Twin Room</type>
+                        <beds>2</beds>
+                        <pricePerNight currency="USD">60</pricePerNight>
+                        <description>Spacious twin room with two single beds and a private balcony overlooking the city.</description>
+                    </room>
+                </rooms>
+            </hotel>
+
+        </hotels>
+    </hotelCategory>
+
+</hotelCategories>

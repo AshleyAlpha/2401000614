@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentList>
+    <bestStudent>
+        <name>Janvier</name>
+    </bestStudent>
+    <bestStudent>
+        <name>Okete</name>
+    </bestStudent>
+    <bestStudent>
+        <name>Peter</name>
+    </bestStudent>
+    <bestStudent>
+        <name>Paul</name>
+    </bestStudent>
+    <intelligentStudent>
+        <name>Junior</name>
+    </intelligentStudent>
+</studentList>
